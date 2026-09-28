@@ -4,7 +4,7 @@
 - 🔐 Interested in cybersecurity, network security, Linux, and system engineering.
 - 🌱 I'm always learning and experimenting with new things.
 - 📫 Reach me at [NateghNavid@gmail.com](mailto:NateghNavid@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/navid-nategh/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/navid-nategh/)
 
 <!---
 navidnategh/navidnategh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
